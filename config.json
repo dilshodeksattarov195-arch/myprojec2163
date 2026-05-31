@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggereender",
+        "uuid": 7715421,
+        "checksum": "7oeyqbo"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
